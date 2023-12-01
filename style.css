@@ -38,6 +38,18 @@ body {
     background-image: url(images/deer-4.jpg);
 }
 
+.f1x1 {
+    background-image: url(images/phrase/youre/img1.png);
+}
+
+.f1x2 {
+    background-image: url(images/phrase/youre/img2.png);
+}
+
+.f1x3 {
+    background-image: url(images/phrase/youre/img3.png);
+}
+
 .map-1-1 {
     background-image: url(images/map/image1x1.jpeg);
 }
