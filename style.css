@@ -50,6 +50,54 @@ body {
     background-image: url(images/phrase/youre/img3.png);
 }
 
+.f2x1 {
+    background-image: url(images/phrase/only/img1.png);
+}
+
+.f2x2 {
+    background-image: url(images/phrase/only/img2.png);
+}
+
+.f2x3 {
+    background-image: url(images/phrase/only/img3.png);
+}
+
+.f3x1 {
+    background-image: url(images/phrase/alone/img1.png);
+}
+
+.f3x2 {
+    background-image: url(images/phrase/alone/img2.png);
+}
+
+.f3x3 {
+    background-image: url(images/phrase/alone/img3.png);
+}
+
+.f4x1 {
+    background-image: url(images/phrase/if-youre/img1.png);
+}
+
+.f4x2 {
+    background-image: url(images/phrase/if-youre/img2.png);
+}
+
+.f4x3 {
+    background-image: url(images/phrase/if-youre/img3.png);
+}
+
+.f5x1 {
+    background-image: url(images/phrase/alone/img1.png);
+}
+
+.f5x2 {
+    background-image: url(images/phrase/alone/img2.png);
+}
+
+.f5x3 {
+    background-image: url(images/phrase/alone/img3.png);
+}
+
 .map-1-1 {
     background-image: url(images/map/image1x1.jpeg);
 }
